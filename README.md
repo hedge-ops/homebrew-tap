@@ -26,7 +26,7 @@ For more information on People Work DSL, please see the [People Work Docs](https
 First, tap this repository:
 
 ```cli
-brew tap hedge-ops/tap
+brew tap hedge-ops/homebrew-tap
 ```
 
 Then, install the application:
