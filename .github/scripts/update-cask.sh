@@ -22,7 +22,7 @@ cask "people-work" do
   version "$VERSION"
   sha256 "$SHA256"
   
-  url "https://github.com/hedge-ops/app/releases/download/v$VERSION/People-Work.dmg"
+  url "https://github.com/hedge-ops/app/releases/download/v$VERSION/People.Work.dmg"
   name "People Work"
   desc "The operating system for the people-side of your job."
   homepage "https://people-work.io"
