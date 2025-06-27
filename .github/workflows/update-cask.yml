@@ -14,7 +14,7 @@ jobs:
       - name: Update Cask
         run: |
           # Call the script with parameters from the payload
-          .github/scripts/update_cask.sh \
+          .github/scripts/update-cask.sh \
             "${{ github.event.client_payload.version }}" \
             "${{ github.event.client_payload.sha256 }}" \
             "${{ github.event.client_payload.url }}"
