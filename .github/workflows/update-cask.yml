@@ -1,6 +1,7 @@
 name: Update Cask
 
 on:
+  workflow_dispatch:
   repository_dispatch:
     types: [update-cask]
 
