@@ -1,8 +1,7 @@
 cask "people-work" do
-  version "1.0.11"
-  sha256 "58ec069eedd41b56e567d708fb57b927488ba301f74ce254827289f5cec8007e"
-  
-  url "https://github.com/hedge-ops/people-work-releases/releases/download/v1.0.11/People.Work.dmg"
+  version "1.0.12"
+  sha256 "792d163c59e12e5bc58222b1fcb048106ac2e0f38132a81d853c373269741c10"
+  url "https://github.com/hedge-ops/people-work-releases/releases/download/v1.0.12/People.Work.dmg"
   name "People Work"
   desc "The operating system for the people-side of your job."
   homepage "https://people-work.io"
