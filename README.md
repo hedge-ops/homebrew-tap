@@ -70,6 +70,8 @@ brew uninstall --cask people-work
 
 If you prefer not to use Homebrew, you can download the latest DMG from our [People Work website](https://people-work.io/download).
 
+If you decide to use Homebrew later, then uninstall the old version first.
+
 ## Support
 
 For issues with the software itself or the Homebrew formula, please file issues in this repository.
